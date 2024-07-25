@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://w7.pngwing.com/pngs/550/102/png-transparent-clinic-health-care-computer-icons-community-health-center-health-text-hand-logo.png" alt="logo" />
+        <img src="https://png.pngtree.com/png-vector/20220920/ourmid/pngtree-healthcare-png-image_6207439.png" alt="logo" />
         <h1>
           Welcome to Abhishek Medical Center
         </h1>
