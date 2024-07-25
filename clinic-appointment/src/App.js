@@ -29,7 +29,7 @@ function App() {
       <header className="App-header">
         <img src="https://png.pngtree.com/png-vector/20220920/ourmid/pngtree-healthcare-png-image_6207439.png" alt="logo" />
         <h1>
-          Welcome to Abhishek Medical Center
+          Welcome to Abhishek Medical Clinic
         </h1>
         <p>
           Please schedule an appointment with our chatbot below
