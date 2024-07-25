@@ -10,7 +10,7 @@ function App() {
     script.defer = true;
     script.type = 'text/javascript';
     script.src = 'https://app.engati.com/static/js/widget.js?config=' + JSON.stringify({
-      bot_key: "",
+      bot_key: "0ceba0209395447d",
       welcome_msg: true,
       branding_key: "default",
       server: "https://app.engati.com",
