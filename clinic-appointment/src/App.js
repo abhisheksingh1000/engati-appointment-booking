@@ -27,9 +27,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://e7.pngegg.com/pngimages/819/834/png-clipart-red-cross-logo-hospital-medical-sign-health-medical-cross-logo-sign.png" className="App-logo" alt="logo" />
-        <p>
+        <img src="https://e7.pngegg.com/pngimages/819/834/png-clipart-red-cross-logo-hospital-medical-sign-health-medical-cross-logo-sign.png" alt="logo" />
+        <h1>
           Welcome to Abhishek Medical Center
+        </h1>
+        <p>
+          Please schedule an appointment with our chatbot below
         </p>
       </header>
     </div>
